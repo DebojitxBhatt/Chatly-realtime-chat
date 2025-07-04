@@ -1,4 +1,4 @@
-Chatly – Real-Time Chat Application (MERN Stack)
+Chatly – Real-Time Chat Application (MERN Stack) With Socket.Io
 
 A real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, Node.js), leveraging Socket.io for instant bi-directional communication. The app allows users to register, log in, and participate in live chat conversations in a clean, modern interface.
 
